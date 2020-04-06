@@ -2,8 +2,8 @@
 /**
 * File Name: Product.java
 * Purpose: A class that models a product
-* Date: 2020-03-01
-* Last modified: 2020-03-01
+* Date: 2020-02-07
+* Last modified: 2020-02-07
 * Author: Josen Pottackal
 * Copy right no copyright
 * Version: 1.0
